@@ -1,0 +1,1 @@
+For using strings and related functions in c++, you need to use #include <string>
