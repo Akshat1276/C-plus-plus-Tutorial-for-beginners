@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    char shit[] = "f";
+    char shit[] = "hell";
     cout << shit[2];
     return 0;
 }
