@@ -6,4 +6,5 @@ int main() {
   int y = 12;
   cout << x+y ;
   return 0;
+  
 }
