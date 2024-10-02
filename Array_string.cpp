@@ -7,3 +7,4 @@ int main(){
     cout << shit[2];
     return 0;
 }
+
