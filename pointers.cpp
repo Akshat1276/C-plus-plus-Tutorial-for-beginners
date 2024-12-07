@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-    int x = 12;
-    int* y = &x;
-    cout << x << endl;
+    int initial = 12;
+    int* y = &initial;
+    cout << initial << endl;
     cout << y;
 }
