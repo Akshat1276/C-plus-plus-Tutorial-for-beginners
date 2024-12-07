@@ -7,3 +7,4 @@ int main(){
     cout << initial << endl;
     cout << y;
 }
+
