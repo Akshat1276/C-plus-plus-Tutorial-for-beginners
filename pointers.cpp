@@ -9,6 +9,6 @@ int main(){
     // cout << y;
     string food = "f00d1e5";
     string* shet = &food;
-    cout << shet;
+    cout << shet << endl;
     cout << *shet;
 }
