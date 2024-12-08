@@ -8,4 +8,7 @@ void myFunc(int n){
 }
 int main() {
     myFunc(10);
+    myFunc(5);
+    myFunc(20);
+    return 0;
 }
