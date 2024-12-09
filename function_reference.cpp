@@ -7,8 +7,8 @@ void printint(int &x, int &y){
 
 int main() {
     int a = 10;
-    cout << &a;
+    // cout << &a;
     int b = 20;
-    printint(0x61ff0c,0x61ff0c);
+    printint(a,b);
     return 0;
 }
