@@ -21,4 +21,3 @@ int main(){
     return 0;
     // Expected Output: 10, 3.14, 1
 }
-
