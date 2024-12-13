@@ -10,6 +10,8 @@ int myFunc(int a){
 double myFunc(double a){
     cout << a << endl;
 }
+
+
 bool myFunc(bool a){
     cout << a << endl;
 }
