@@ -71,5 +71,4 @@ int main() {
         cout << "~\n";
         cout << head->data;
     }
-    return 0;
 }

@@ -1,5 +1,3 @@
-#include <iostream>
-#include <vector>
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -19,7 +17,7 @@ Node *deleteNode(Node *head)
     {
         if (head == NULL)
             return head;
-        Node *temp = head;
+        Node* temp = head;
         head = head->next;
         delete temp;
         return head;
