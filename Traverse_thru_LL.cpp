@@ -16,6 +16,10 @@ class Node{
         data = data1;
         next = nullptr;
     }
+    Node(int data1){
+        data = data1;
+        next = nullptr->next;
+    }
 };
 
 Node* CreateLL(vector<int> &arr){
